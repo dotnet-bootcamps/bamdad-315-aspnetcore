@@ -1,2 +1,5 @@
-# bamdad-315 (aspnetcore)
-Source Codes Of Asp.Net Core Lessons in bamdad (315) .Net Bootcamp
+# .NET Bootcamp (Bamdad-Institute 315)
+this repository was created for .Net Bootcamp (Bamdad-Institute #315) and ```is no longer maintained.```
+
+## Lessons Learned
+- AspNetCore Contact-us from
